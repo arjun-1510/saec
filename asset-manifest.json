@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "//saec/static/js/main.6d02ce74.chunk.js",
+    "main.js.map": "//saec/static/js/main.6d02ce74.chunk.js.map",
+    "runtime-main.js": "//saec/static/js/runtime-main.da6280c9.js",
+    "runtime-main.js.map": "//saec/static/js/runtime-main.da6280c9.js.map",
+    "static/js/2.47a1b91d.chunk.js": "//saec/static/js/2.47a1b91d.chunk.js",
+    "static/js/2.47a1b91d.chunk.js.map": "//saec/static/js/2.47a1b91d.chunk.js.map",
+    "static/js/3.51dce647.chunk.js": "//saec/static/js/3.51dce647.chunk.js",
+    "static/js/3.51dce647.chunk.js.map": "//saec/static/js/3.51dce647.chunk.js.map",
+    "index.html": "//saec/index.html",
+    "static/js/2.47a1b91d.chunk.js.LICENSE.txt": "//saec/static/js/2.47a1b91d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da6280c9.js",
+    "static/js/2.47a1b91d.chunk.js",
+    "static/js/main.6d02ce74.chunk.js"
+  ]
+}
